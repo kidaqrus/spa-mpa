@@ -20,7 +20,8 @@ const Navbar = () => {
       id: 2,
       path: "/about",
       text: "About",
-    }
+    },
+
   ]
 
   const handleToggle = () => {
